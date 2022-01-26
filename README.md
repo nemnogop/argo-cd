@@ -1,4 +1,6 @@
 [![Integration tests](https://github.com/argoproj/argo-cd/workflows/Integration%20tests/badge.svg?branch=master)](https://github.com/argoproj/argo-cd/actions?query=workflow%3A%22Integration+tests%22)
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/b4ccb982-a393-424e-9cad-a69bda3a0934.svg?orgId=591311937161)](https://app.soluble.cloud/repos/details/github.com/nemnogop/argo-cd?orgId=591311937161)  
 [![slack](https://img.shields.io/badge/slack-argoproj-brightgreen.svg?logo=slack)](https://argoproj.github.io/community/join-slack)
 [![codecov](https://codecov.io/gh/argoproj/argo-cd/branch/master/graph/badge.svg)](https://codecov.io/gh/argoproj/argo-cd)
 [![Release Version](https://img.shields.io/github/v/release/argoproj/argo-cd?label=argo-cd)](https://github.com/argoproj/argo-cd/releases/latest)
